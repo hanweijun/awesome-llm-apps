@@ -2,7 +2,7 @@
 
 description: 'Review code for quality and adherence to best practices.'
 
-tools: ['usages', 'vscodeAPI', 'problems', 'fetch', 'githubRepo', 'search']
+tools: ['search', 'usages', 'vscodeAPI', 'problems', 'fetch', 'githubRepo']
 
 ---
 
